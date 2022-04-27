@@ -1,0 +1,205 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h1{
+    padding-top: 70px;
+    font-size: 3em;
+    padding-left: 200px;
+    
+}
+.title{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 200px;
+
+    
+}
+
+.titl{
+    font-style: italic;
+    color: rgb(117, 107, 107);
+   
+    
+}
+img{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 50px;
+}
+
+.ddd{
+    float: right;
+    margin-top: -1980px;
+    display: flex;
+   
+    
+}
+.ddd img{
+    margin-right: 30px;
+    margin-top: -60px;
+
+}
+.ddd span{
+    margin-right: 200px;
+ 
+}
+
+.ddd1{
+    float: right;
+    margin-top: -1880px;
+    display: flex;
+     
+}
+.ddd1 img{
+    margin-right: 30px;
+    margin-top: -60px;
+
+}
+.ddd1 span{
+    margin-right: 200px;
+ 
+}
+.ddd2{
+    float: right;
+    margin-top: -1780px;
+    display: flex;
+      
+}
+.ddd2 img{
+    margin-right: 30px;
+    margin-top: -60px;
+
+}
+.ddd2 span{
+    margin-right: 200px;
+ 
+}
+.ddd3{
+    float: right;
+    margin-top: -1680px;
+    display: flex;
+    
+}
+.ddd3 img{
+    margin-right: 30px;
+    margin-top: -60px;
+
+}
+.ddd3 span{
+    margin-right: 200px;
+ 
+}
+
+.fff{
+    
+    background: rgb(26, 21, 15);
+    
+ }
+.fff img{
+    float: right;
+    margin-right: -190px;
+}
+
+.riw{
+    float: right;
+    padding-right: 200px;
+    padding-top: 60px;
+   
+}
+.kk{
+    color: rgb(117, 107, 107);;
+}
+.ll{
+    color: rgb(255, 145, 0);
+    font-weight: 700;
+}
+
+.chack{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.labl{
+    padding-left: 200px;
+    font-style: italic;
+    color: rgb(117, 107, 107);
+   font-size: 1.3em;
+
+    
+}
+h5{
+    padding-left: 200px;
+    padding-top: 30px;
+    font-size: 1.5em;
+    padding-bottom: 30px;
+}
+.prag{
+    margin-right: 10px;
+    
+}
+span{
+    font-weight: 1000;
+    color: black;
+}
+.par{
+    color: rgb(117, 107, 107);
+    
+}
+ol{
+    padding-top: 30px;
+    padding-left:200px;
+    font-size: 1.3em;
+    color: rgb(117, 107, 107);
+  
+    
+}
+.ff1{
+    list-style-image: url(imges/1number_1_3080.png);
+}
+.ff2{
+    list-style-image: url(imges/2number_2_3830.png);
+}
+.ff3{
+    list-style-image: url(imges/3number_3_3078.png);
+}
+.ff4{
+    list-style-image: url(imges/4number_4_3076.png);
+}
+.ff5{
+    list-style-image: url(imges/5_number_3828.png);
+    
+}
+.ff6{
+    list-style-image: url(imges/6_number_3826.png);
+}
+.ff7{
+    list-style-image: url(imges/7number_7_3825.png);
+}
+.footer{
+    padding-left: 200px;
+    color: rgb(117, 107, 107);
+    padding-top: 100px;
+    font-size: 1.1em;
+}
+h6{
+    font-size: 1em;
+    color: rgb(117, 107, 107);
+    text-align: center;
+    padding-top: 100px;
+
+
+}
+@media ( max-width:320px)  {
+    .mmm{
+        display: flex;
+    }
+    h6{
+        color: red;
+    }
+    .ddd1.ddd2.ddd3{
+        display: block;
+    }
+}
